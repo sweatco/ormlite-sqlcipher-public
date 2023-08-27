@@ -1,7 +1,7 @@
 package com.j256.ormlite.cipher.android.apptools.support;
 
 import android.content.Context;
-import android.support.v4.content.AsyncTaskLoader;
+import androidx.loader.content.AsyncTaskLoader;
 
 import com.j256.ormlite.cipher.android.AndroidCompiledStatement;
 import com.j256.ormlite.dao.Dao;
